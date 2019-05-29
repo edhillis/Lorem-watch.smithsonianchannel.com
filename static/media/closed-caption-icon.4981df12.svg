@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="26.45" height="14.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.45 14.5" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Closed Caption Icon</title>
+    <desc>Closed Caption Icon</desc>
+    <path class="icon" d="M7.07,14.5A7,7,0,0,1,0,7.29v0A7.06,7.06,0,0,1,7.18,0a7,7,0,0,1,5.43,2.16L10.69,4.43A5,5,0,0,0,7.16,2.84a4.13,4.13,0,0,0-4,4.37v0a4.14,4.14,0,0,0,4,4.41A5,5,0,0,0,10.79,10l1.92,2a7,7,0,0,1-5.64,2.5m13.73,0a7,7,0,0,1-7.07-7.21v0A7.06,7.06,0,0,1,20.92,0a7.06,7.06,0,0,1,5.43,2.16L24.42,4.43A5,5,0,0,0,20.9,2.84a4.13,4.13,0,0,0-4,4.37v0a4.14,4.14,0,0,0,4,4.41A5,5,0,0,0,24.52,10l1.93,2a7,7,0,0,1-5.65,2.5"/>
+</svg>

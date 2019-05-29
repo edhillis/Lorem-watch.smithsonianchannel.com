@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" width="12" height="2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 2" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #FFFFFF;
+            }
+        </style>
+    </defs>
+    <title>Remove Icon</title>
+    <desc>Remove Icon</desc>
+    <rect width="12" height="2"/>
+</svg>

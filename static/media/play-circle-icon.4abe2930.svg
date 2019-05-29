@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 180 180" >
+	<defs>
+			<style type="text/css">
+					.icon {
+							fill: #ffffff;
+					}
+			</style>
+	</defs>
+	<title>Play Icon</title>
+	<desc>Play Icon</desc>
+	<path d="M90,3c48,0,87,39,87,87c0,48-39,87-87,87S3,138,3,90C3,42,42,3,90,3 M90,0C40.3,0,0,40.3,0,90c0,49.7,40.3,90,90,90
+		s90-40.3,90-90C180,40.3,139.7,0,90,0"/>
+	<polygon points="119.7,90 74.3,120 74.3,60 "/>
+</svg>

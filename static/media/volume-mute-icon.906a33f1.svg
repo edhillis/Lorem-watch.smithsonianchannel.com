@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" width="24.08" height="19.23" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.08 19.23" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Volume Mute Icon</title>
+    <desc>Volume Mute Icon</desc>
+    <path d="M14.2,12.83l3.21-3.21L14.19,6.4l1.73-1.72,3.22,3.21,3.21-3.22L24.08,6.4,20.87,9.62l3.21,3.21-1.73,1.73-3.21-3.21-3.22,3.21ZM10.78,0,5.41,5.15H0v8.94H5.41l5.37,5.14Z"/>
+</svg>

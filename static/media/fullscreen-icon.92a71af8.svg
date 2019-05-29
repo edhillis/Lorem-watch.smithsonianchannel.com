@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="17.82" height="18" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.82 18" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Fullscreen Icon</title>
+    <desc>Fullscreen Icon</desc>
+    <path class="icon" d="M9.8,18H0V8.35H2.64v5.37L6.92,9.44,8.7,11.22,4.43,15.49H9.8Zm8-8.35H15.17V4.28L10.89,8.56,9.12,6.78l4.27-4.27H8V0h9.81Z"/>
+</svg>

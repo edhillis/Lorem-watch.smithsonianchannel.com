@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="19" height="19.11" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19.11" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Close Menu Icon</title>
+    <desc>Close Menu Icon</desc>
+    <polygon class="icon" points="19 16.78 11.77 9.55 18.99 2.33 16.67 0 9.45 7.22 2.34 0.11 0 2.45 7.11 9.56 0.01 16.66 2.33 18.99 9.44 11.88 16.66 19.11 19 16.78"/>
+</svg>

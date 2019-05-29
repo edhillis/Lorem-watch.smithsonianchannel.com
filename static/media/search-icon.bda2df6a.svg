@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" width="16.86" height="17" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.86 17" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Search Icon</title>
+    <desc>Search Icon</desc>
+    <path d="M16.86,15.33l-4.39-4.39a6.93,6.93,0,1,0-1.69,1.64L15.2,17ZM2,6.89a4.87,4.87,0,1,1,4.87,4.87A4.88,4.88,0,0,1,2,6.89"/>
+</svg>

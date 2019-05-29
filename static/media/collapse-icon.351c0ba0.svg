@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="17.82" height="18" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.82 18" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Collapse Icon</title>
+    <desc>Collapse Icon</desc>
+    <path class="icon" d="M0,10.06H8V18H5.89V13.58L2.37,17.1.9,15.63l3.52-3.52H0ZM9.82,0H12V4.42L15.46.9l1.48,1.47L13.42,5.89h4.42V7.94h-8Z"/>
+</svg>

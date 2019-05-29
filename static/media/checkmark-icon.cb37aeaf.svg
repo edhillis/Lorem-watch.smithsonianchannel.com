@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.4 16.5" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+								opacity: .4;
+            }
+        </style>
+    </defs>
+    <title>Check Mark Icon</title>
+    <desc>Check Mark Icon</desc>
+		<path d="M15.4,6.6l-9.9,9.9L0,11V4.4l5.5,5.5L15.4,0V6.6z"/>
+</svg>

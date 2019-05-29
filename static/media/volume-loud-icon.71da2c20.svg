@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="25.03" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.03 20" >
+    <defs>
+        <style type="text/css">
+            .icon {
+                fill: #ffffff;
+            }
+        </style>
+    </defs>
+    <title>Volume Loud Icon</title>
+    <desc>Volume Loud Icon</desc>
+    <polygon class="icon" points="10.78 0.76 5.41 5.91 0 5.91 0 14.85 5.41 14.85 10.78 20 10.78 0.76"/>
+    <path class="icon" d="M14.82,13.13l-1-1.64a1.87,1.87,0,0,0,1-1.63,1.9,1.9,0,0,0-1-1.64l1-1.63a3.77,3.77,0,0,1,0,6.54"/>
+    <path class="icon" d="M16.89,16.41,16,14.77a5.67,5.67,0,0,0,0-9.83l.94-1.63a7.55,7.55,0,0,1,0,13.1"/>
+    <path class="icon" d="M19.34,19.72l-.95-1.64a9.5,9.5,0,0,0,0-16.45L19.34,0a11.39,11.39,0,0,1,0,19.72"/>
+</svg>
